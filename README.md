@@ -1,3 +1,5 @@
+As the title suggests, this is simply tutorial code used to introduce the user (me in this case) to React.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
